@@ -1,11 +1,11 @@
-About virocon
-=============
+About virocon-feedstock
+=======================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/virocon-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/virocon-organization/virocon
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/virocon-feedstock/blob/main/LICENSE.txt)
 
 Summary: ViroCon is a software to compute environmental contours
 

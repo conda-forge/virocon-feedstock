@@ -1,5 +1,5 @@
 {% set name = "virocon" %}
-{% set version = "2.1.0" %}
+{% set version = "2.2.1" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/virocon-{{ version }}.tar.gz
-  sha256: 2ae6838aa6f6d64388dcff066487882748c82d3ee6f6d33aa59d494c7c6f80ea
+  sha256: 4ba34c32558a11ea73e46dd4ca1ccfdaeda9492a3f88b1f57a844d34b8449354
 
 build:
   noarch: python

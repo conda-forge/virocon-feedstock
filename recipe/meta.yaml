@@ -9,6 +9,7 @@ source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/virocon-{{ version }}.tar.gz
   sha256: 4ba34c32558a11ea73e46dd4ca1ccfdaeda9492a3f88b1f57a844d34b8449354
 
+
 build:
   noarch: python
   script: {{ PYTHON }} -m pip install . -vv
